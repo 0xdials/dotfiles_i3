@@ -1,1 +1,1 @@
-simple dotfiles for and i3 arch setup
+simple dotfiles for an i3 arch setup
