@@ -1,0 +1,10 @@
+2021/12/29-12:18:33.656 1559 Reusing MANIFEST /home/dials/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-12:18:33.656 1559 Recovering log #90
+2021/12/29-12:18:33.689 1559 Reusing old log /home/dials/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000090.log 
+2021/12/29-12:18:35.569 15ae Level-0 table #95: started
+2021/12/29-12:18:35.585 15ae Level-0 table #95: 734172 bytes OK
+2021/12/29-12:18:35.588 15ae Delete type=0 #90
+2021/12/29-12:18:35.731 1559 Compacting 1@1 + 1@2 files
+2021/12/29-12:18:35.769 1559 Generated table #96@1: 7423 keys, 1774740 bytes
+2021/12/29-12:18:35.769 1559 Compacted 1@1 + 1@2 files => 1774740 bytes
+2021/12/29-12:18:35.771 1559 compacted to: files[ 0 0 1 0 0 0 0 ]
