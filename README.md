@@ -1,1 +1,1 @@
-quick i3 setup for arch
+simple dotfiles for and i3 arch setup
